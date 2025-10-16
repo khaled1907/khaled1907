@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">👋 Hey there! Welcome to my GitHub Profile!</h1>
 
-<!--
-**khaled1907/khaled1907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100"/>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  I'm <b>Khaled Mohamed Mahmoud</b> ✨<br>
+  A <b>Front-End Developer</b> and <b>Cross-Platform Developer</b> 💻<br>
+  I build modern web and mobile apps using <b>React</b>, <b>React Native</b>, and <b>Flutter</b> ⚡
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=00FF7F&center=true&vCenter=true&width=600&lines=Front-End+Developer;Cross-Platform+Developer;Using+React,+React+Native+%26+Flutter;Building+Modern+Apps+with+Beautiful+UI" alt="Typing Animation" />
+</p>
+
+---
+
+
+
+<h3 align="center">💻 Tools & Technologies</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,github,vscode" />
+</p>
+
+---
+
+<h3 align="center">🚀 About Me</h3>
+<p align="center">
+  🌱 Passionate about front-end and cross-platform development.<br>
+  💡 Always exploring new technologies and improving my coding skills.<br>
+  🎯 Focused on creating fast, responsive, and user-friendly applications.
+</p>
