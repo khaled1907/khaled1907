@@ -33,3 +33,8 @@
   💡 Always exploring new technologies and improving my coding skills.<br>
   🎯 Focused on creating fast, responsive, and user-friendly applications.
 </p>
+
+
+<p align="center">
+  <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="400" />
+</p>
