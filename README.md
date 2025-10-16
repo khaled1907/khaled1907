@@ -1,3 +1,5 @@
+
+
 <h1 align="center">👋 Hey there! Welcome to my GitHub Profile!</h1>
 
 <p align="center">
@@ -18,8 +20,6 @@
 
 ---
 
-
-
 <h3 align="center">💻 Tools & Technologies</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,github,vscode" />
@@ -27,14 +27,8 @@
 
 ---
 
-<h3 align="center">🚀 About Me</h3>
 <p align="center">
-  🌱 Passionate about front-end and cross-platform development.<br>
-  💡 Always exploring new technologies and improving my coding skills.<br>
-  🎯 Focused on creating fast, responsive, and user-friendly applications.
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400" />
 </p>
 
 
-<p align="center">
-  <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="400" />
-</p>
