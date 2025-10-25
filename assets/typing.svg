@@ -1,0 +1,37 @@
+<!-- assets/typing.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="110" viewBox="0 0 700 110" role="img" aria-label="Typing Animation">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0%" stop-color="#00FF7F"/>
+      <stop offset="50%" stop-color="#7DF9FF"/>
+      <stop offset="100%" stop-color="#FFD36B"/>
+    </linearGradient>
+
+    <!-- mask to reveal letters one by one -->
+    <mask id="m">
+      <rect x="0" y="0" width="700" height="110" fill="black"/>
+      <!-- white rect will move to reveal text -->
+      <rect id="reveal" x="0" y="0" width="0" height="110" fill="white">
+        <animate attributeName="width"
+                 values="0;220;440;660;700"
+                 keyTimes="0;0.25;0.5;0.75;1"
+                 dur="6s"
+                 repeatCount="indefinite"/>
+      </rect>
+    </mask>
+  </defs>
+
+  <rect width="700" height="110" fill="transparent"/>
+
+  <!-- lines of text stacked -->
+  <g font-family="Fira Code, monospace" font-weight="600" font-size="20" mask="url(#m)">
+    <text x="30" y="34" fill="url(#g)">Front-End Developer</text>
+    <text x="30" y="62" fill="url(#g)">Cross-Platform Developer</text>
+    <text x="30" y="90" fill="url(#g)">React | React Native | Flutter</text>
+  </g>
+
+  <!-- caret -->
+  <rect x="28" y="18" width="6" height="22" fill="#00FF7F" rx="1">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
