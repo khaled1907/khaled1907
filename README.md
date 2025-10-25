@@ -3,7 +3,9 @@
 <h1 align="center">👋 Hey there! Welcome to my GitHub Profile!</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="100"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjhpMGprZm1tbThtMXZjOHVxYnNpejRyZTgwd3J0eGpjN3ZrcnczeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h408T6Y5GfmXBKW62l/giphy.gif" width="100"/>
+</p>
+
 </p>
 
 
