@@ -18,7 +18,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=00FF7F&center=true&vCenter=true&width=600&lines=Front-End+Developer;Cross-Platform+Developer;Using+React,+React+Native+%26+Flutter;Building+Modern+Apps+with+Beautiful+UI" alt="Typing Animation" />
+  <img src="./assets/typing.svg" alt="Typing Animation" />
 </p>
 
 ---
