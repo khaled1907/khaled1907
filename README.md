@@ -16,11 +16,13 @@
 </p>
 
 ---
-<div>
+
+
 <p align="center">
   <img src="./assets/typing.svg" alt="Typing Animation" />
 </p>
-</div>
+
+
 ---
 
 <h3 align="center">💻 Tools & Technologies</h3>
