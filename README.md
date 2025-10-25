@@ -3,8 +3,9 @@
 <h1 align="center">👋 Hey there! Welcome to my GitHub Profile!</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="100"/>
 </p>
+
 
 <p align="center">
   I'm <b>Khaled Mohamed Mahmoud</b> ✨<br>
